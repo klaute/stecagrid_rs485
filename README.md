@@ -1,2 +1,5 @@
-# stecagrid_rs485
-A simple script to read out StecaGrid inverter using rs485
+pip3 install pyserial
+
+Ich übernehme keine Garantie oder Gewährleistung für die Nutzung dieser Software-
+Verwendung auf eigne Gefahr.
+
